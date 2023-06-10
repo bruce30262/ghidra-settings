@@ -1,0 +1,5 @@
+name = Flat Dark Theme - bruce30262
+lookAndFeel = Flat Dark
+useDarkDefaults = true
+font.decompiler = Monaco-PLAIN-12
+font.listing.base = Monaco-PLAIN-12

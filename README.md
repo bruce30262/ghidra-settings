@@ -1,8 +1,10 @@
-# ghidra-kb
-My own Ghidra key binding configuration file. Inspired by [ida2ghidra-kb](https://github.com/enovella/ida2ghidra-kb) ( the configuration file is modified from the one in ida2ghidra-kb ).  
+# ghidra-settings
+My own Ghidra settings, inlcuding:  
+* key binding configuration file. Inspired by [ida2ghidra-kb](https://github.com/enovella/ida2ghidra-kb) ( the configuration file is modified from the one in ida2ghidra-kb ).  
+* theme settings.
 
 ## Key bindings
-I've modified the following key bindings to fit my needs. Currently works in Ghidra 9.2 ( 2020/11/13 ).  
+I've modified the following key bindings to fit my needs. Currently works in Ghidra 10.3 ( 2023/06/10 ).  
 
 | Action Name | Key Binding |
 |---|---|
